@@ -26,3 +26,7 @@ https://helpx.adobe.com/jp/xd/user-guide.html/jp/xd/help/keyboard-shortcuts.ug.h
 - スクロールできるようにするには要素を選択して右メニューにあるスクロールを選択する
 - 一応SVGに書き出すことができる
 - 特定のフォントを使いたいときはOSにinstallする
+
+## 画像
+![リピートグリッド&スクロール](./スクリーンショット%202020-11-25%2014.58.46.png)
+![flex&padding](./スクリーンショット%202020-11-25%2015.25.19.png)
